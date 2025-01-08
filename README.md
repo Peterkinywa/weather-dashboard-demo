@@ -19,7 +19,6 @@ For this project, we developed a weather dashboard that fetches real-time weathe
   - python-dotenv (Manages our environment variables)
   - requests (We are able to make HTTP requests to the OpenWeather API)
 
-  ```markdown
 ## Project Structure
 ```markdown
 weather-dashboard/
