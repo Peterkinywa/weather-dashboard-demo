@@ -66,3 +66,5 @@ weather-dashboard/
 8. Navigate to your AWS Console and check your AWS S3 Bucket for weather data files stored in the bucket.
 
 9. Empty your bucket and delete your S3 bucket to avoid incurring any unbudgeted costs.
+
+## Happy Development!
