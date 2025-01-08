@@ -21,15 +21,16 @@ For this project, we developed a weather dashboard that fetches real-time weathe
 
   ```markdown
 ## Project Structure
+```markdown
 weather-dashboard/
   src/
     __init__.py
     weather_dashboard.py
-  tests/
-  data/
+  tests
   .env
-  .gitignore (Defines what to ignore)
-  requirements.txt (Defines all the dependencies to be installed)
+  .gitignore
+  requirements.txt
+```
 
 ## Setup Instructions
 1. Clone the repository:
